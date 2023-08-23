@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Advanced Material-UI Component Styling with Next.js
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)...
+
+And then, using the Udemy course [Advanced Material-UI Component Styling: The Complete Course](https://www.udemy.com/course/advanced-material-ui-component-styling-the-complete-course/), refashioned into an [MUI](https://mui.com/) styled app. Offered for educational
+purposes only, no other warranty, implied or express.
+
+The course sections are committed on branches, e.g., `section-2-architecting-a-material-ui-app`. The final product is merged to main.
+
+Also, see the course instructor's repo, [beautiful-mui-app](https://github.com/Jon20111/beautiful-mui-app), with a straight React implementation.
+
+
 
 ## Getting Started
 
